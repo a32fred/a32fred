@@ -1,8 +1,8 @@
 ## Iae :) Sou o Fred!!
 
-- 👀 sou interessado em desenvolvimento web backend
-- 🌱 estou atualmente aprendendo banco de dados e estruturas
-- 🪐 ainda estudando, quase terminando o ensino médio kk 
+- 👀 sou um dev/estudante web focado no backend
+- 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com PHP
+- 🪐 ainda estudando, quase terminando o ensino médio. Outrossim, preparado para começar no mercado de trabalho
 #
 <div>
     <a href="https://github.com/a32fred">
