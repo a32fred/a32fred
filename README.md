@@ -1,7 +1,7 @@
 ## Iae :) Sou o Fred!!
 
 - 👀 sou um dev/estudante web focado no backend
-- 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com PHP
+- 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com React js
 - 🪐 ainda estudando, quase terminando o ensino médio. Outrossim, preparado para começar no mercado de trabalho
 #
 <div>
