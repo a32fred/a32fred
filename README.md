@@ -3,16 +3,18 @@
 - 👀 sou um dev/estudante web focado no backend
 - 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com React js
 - 🪐 ainda estudando, quase terminando o ensino médio. Outrossim, preparado para começar no mercado de trabalho
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kauasdev&label=Profile%20views&color=0e75b6&style=flat" alt="kauasdev" /> </p>
-#
+
+  #
 
 <div>
     <a href="https://github.com/a32fred">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a32fred&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a32fred&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
-#
+
+  #  
     
 <div>
         <a href="https://instagram.com/a32fred" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
