@@ -4,7 +4,7 @@
 - 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com React js
 - 🪐 ainda estudando, quase terminando o ensino médio. Outrossim, preparado para começar no mercado de trabalho
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kauasdev&label=Profile%20views&color=0e75b6&style=flat" alt="kauasdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a32fred&label=Profile%20views&color=0e75b6&style=flat" alt="kauasdev" /> </p>
 
   #
 
