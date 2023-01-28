@@ -19,6 +19,6 @@
 <div>
         <a href="https://instagram.com/a32fred" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href = "mailto:fredericocarlos.a32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/frederico-carlos-barroso-lima-verde-5b3243207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="www.linkedin.com/in/frederico-carlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <img align="right" height="180em" alt="bah" src="https://cdn.discordapp.com/attachments/851489344224755742/881607909128175666/output_zTpI7d.gif">
 </div>
