@@ -2,7 +2,7 @@
 
 - 👀 sou um dev/estudante web focado no backend
 - 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com React js
-- 🪐 ainda estudando, quase terminando o ensino médio. Outrossim, preparado para começar no mercado de trabalho
+- 🪐 ja preparado pro mercado de trabalho, cursando ADS na estácio
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a32fred&label=Profile%20views&color=0e75b6&style=flat" alt="kauasdev" /> </p>
 
