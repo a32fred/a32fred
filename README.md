@@ -1,10 +1,27 @@
 ## Iae :) Sou o Fred!!
 
-- 👀 sou um dev/estudante web focado no backend
-- 🌱 estou atualmente treinando minha comunicação com o ingles e melhorando minhas skills com React js
-- 🪐 ja preparado pro mercado de trabalho, cursando ADS na estácio
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=a32fred&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a32fred&label=Profile%20views&color=0e75b6&style=flat" alt="kauasdev" /> </p>
+<div align=center> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
+</div>
+  
+<br>
+
+<div align="center">
+<a href="https://u8views.com/github/a32fred"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/a32fred"><img src="https://www.codewars.com/users/a32fred/badges/small">
+</div>
+
+<br>
+
 
   #
 
@@ -17,22 +34,3 @@
 </div>
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=a32fred&show_icons=true&theme=tokyonight&locale=pt-br" 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=a32fred&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p>
