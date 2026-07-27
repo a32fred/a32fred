@@ -1,36 +1,91 @@
-## Iae :) Sou o Fred!!
+<h1 align="center">Frederico Carlos</h1>
+
+<p align="center">
+  Desenvolvedor full-stack · Automação, IA aplicada e integrações WhatsApp
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=36BCF7&size=22&center=true&vCenter=true&width=600&height=45&lines=Backend+em+Go%2C+Node+e+Python;Agentes+de+IA+no+WhatsApp;Sistemas+que+rodam+em+produ%C3%A7%C3%A3o" alt="Sobre mim" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/frederico-carlos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:fredericocarlos.a32@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/a32fred"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.codewars.com/users/a32fred"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
+</p>
+
+---
+
+## Sobre
+
+Construo sistemas que resolvem problema real de operação: automação de atendimento, integrações
+entre APIs, agentes de IA no WhatsApp e painéis de gestão. Trabalho a stack inteira — do banco e
+da API em Go/Node até o front em Next.js — e coloco tudo em produção com Docker em VPS.
+
+- 🔭 Hoje: agentes de IA para pré-venda e atendimento (WhatsApp Cloud API / Evolution API)
+- 🛠️ Backend em **Go** e **TypeScript**, automações em **Python**, sistemas em **PHP/Laravel**
+- 📫 Aberto a freelas e projetos — **fredericocarlos.a32@gmail.com**
+
+---
+
+## Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+</p>
+
+---
+
+## O que ando construindo
+
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| **Análise Documental MCMV** | Orquestração de IA para análise documental do programa Minha Casa Minha Vida | NestJS · Worker Python · Next.js |
+| **eleven-hook** | Agente de IA de pré-venda no WhatsApp (Meta Cloud API) + painel de gestão | Node.js · LLM · WhatsApp API |
+| **eleven-watchdog** | Monitoramento de infra: Evolution APIs, n8n, containers, recursos e SSL — alertas via WhatsApp e e-mail | Python · Docker |
+| **AprenderMais v2** | Gestão escolar multi-tenant, reescrita completa | Laravel |
+| **greencoleta** | Backend de operação logística | Go |
+
+> Esses projetos são de clientes e ficam em repositórios privados. Posso detalhar arquitetura e
+> mostrar trechos de código numa conversa.
+
+### Público aqui no GitHub
+
+- [**pontocardce**](https://github.com/a32fred/pontocardce) — site operacional da Ponto Card CE, versão refatorada · `TypeScript`
+- [**notification-webpush**](https://github.com/a32fred/notification-webpush) — notificações web push · `JavaScript`
+- [**Qr-Code-Generation**](https://github.com/a32fred/Qr-Code-Generation) — gerador de QR Code rodando em VPS Oracle · `HTML/JS`
+- [**appweb-controle-financas**](https://github.com/a32fred/appweb-controle-financas) — app de controle financeiro · `JavaScript`
+
+---
+
+## GitHub
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=a32fred&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
-  
-<br>
-
-<div align="center">
-<a href="https://u8views.com/github/a32fred"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.codewars.com/users/a32fred"><img src="https://www.codewars.com/users/a32fred/badges/small">
-</div>
-
-<br>
-
-
-  #
-
-    
-<div>
-        <a href="https://instagram.com/a32fred" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href = "mailto:fredericocarlos.a32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="www.linkedin.com/in/frederico-carlos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <img align="right" height="180em" alt="bah" src="https://cdn.discordapp.com/attachments/851489344224755742/881607909128175666/output_zTpI7d.gif">
-</div>
-<br/>
-<br/>
+<p align="center">
+  <a href="https://u8views.com/github/a32fred"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg" alt="Visitas ao perfil"></a>
+</p>
