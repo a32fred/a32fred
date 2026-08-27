@@ -33,6 +33,7 @@ da API em Go/Node até o front em Next.js — e coloco tudo em produção com Do
 
 ## Stack
 
+### Linguagens
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -41,6 +42,7 @@ da API em Go/Node até o front em Next.js — e coloco tudo em produção com Do
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
+### Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
@@ -48,6 +50,7 @@ da API em Go/Node até o front em Next.js — e coloco tudo em produção com Do
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
+### Infra & Dados
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
@@ -73,10 +76,16 @@ da API em Go/Node até o front em Next.js — e coloco tudo em produção com Do
 
 ### Público aqui no GitHub
 
-- [**pontocardce**](https://github.com/a32fred/pontocardce) — site operacional da Ponto Card CE, versão refatorada · `TypeScript`
-- [**notification-webpush**](https://github.com/a32fred/notification-webpush) — notificações web push · `JavaScript`
-- [**Qr-Code-Generation**](https://github.com/a32fred/Qr-Code-Generation) — gerador de QR Code rodando em VPS Oracle · `HTML/JS`
-- [**appweb-controle-financas**](https://github.com/a32fred/appweb-controle-financas) — app de controle financeiro · `JavaScript`
+<div align="center">
+
+| Projeto | O que é | Stack | Stars | Forks |
+|:--------|:-----------|:-----:|:-----:|:-----:|
+| **[pontocardce](https://github.com/a32fred/pontocardce)** | Site operacional da Ponto Card CE, versão refatorada | `TypeScript` | [![Stars](https://img.shields.io/github/stars/a32fred/pontocardce?style=flat-square&color=FFD700)](https://github.com/a32fred/pontocardce/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/pontocardce?style=flat-square&color=blue)](https://github.com/a32fred/pontocardce/fork) |
+| **[notification-webpush](https://github.com/a32fred/notification-webpush)** | Notificações web push | `JavaScript` | [![Stars](https://img.shields.io/github/stars/a32fred/notification-webpush?style=flat-square&color=FFD700)](https://github.com/a32fred/notification-webpush/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/notification-webpush?style=flat-square&color=blue)](https://github.com/a32fred/notification-webpush/fork) |
+| **[Qr-Code-Generation](https://github.com/a32fred/Qr-Code-Generation)** | Gerador de QR Code rodando em VPS Oracle | `HTML/JS` | [![Stars](https://img.shields.io/github/stars/a32fred/Qr-Code-Generation?style=flat-square&color=FFD700)](https://github.com/a32fred/Qr-Code-Generation/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/Qr-Code-Generation?style=flat-square&color=blue)](https://github.com/a32fred/Qr-Code-Generation/fork) |
+| **[appweb-controle-financas](https://github.com/a32fred/appweb-controle-financas)** | App de controle financeiro | `JavaScript` | [![Stars](https://img.shields.io/github/stars/a32fred/appweb-controle-financas?style=flat-square&color=FFD700)](https://github.com/a32fred/appweb-controle-financas/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/appweb-controle-financas?style=flat-square&color=blue)](https://github.com/a32fred/appweb-controle-financas/fork) |
+
+</div>
 
 ---
 
@@ -84,8 +93,4 @@ da API em Go/Node até o front em Next.js — e coloco tudo em produção com Do
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=a32fred&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-</p>
-
-<p align="center">
-  <a href="https://u8views.com/github/a32fred"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg" alt="Visitas ao perfil"></a>
 </p>
