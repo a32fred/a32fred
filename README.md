@@ -1,97 +1,54 @@
-<h1 align="center">Frederico Carlos</h1>
+# Frederico Carlos
 
-<p align="center">
-  Full-stack developer · Automation, applied AI, and WhatsApp integrations
-</p>
+**I build production systems that remove manual work: AI agents on WhatsApp, backend services in Go and TypeScript, and operational tooling that runs unattended.**
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=36BCF7&size=22&center=true&vCenter=true&width=600&height=45&lines=Backend+with+Go%2C+Node%2C+and+Python;AI+agents+on+WhatsApp;Production-ready+systems" alt="About me" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/frederico-carlos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:fredericocarlos.a32@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://instagram.com/a32fred"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.codewars.com/users/a32fred"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
-</p>
+Currently taking freelance work — [fredericocarlos.a32@gmail.com](mailto:fredericocarlos.a32@gmail.com)
 
 ---
 
-## About
+## What I build
 
-I build systems that solve real operational problems: customer-service automation, API
-integrations, AI agents on WhatsApp, and management dashboards. I work across the stack—from
-the database and Go/Node APIs to Next.js front ends—and deploy production systems with Docker on VPS infrastructure.
+Client work, in private repositories. Architecture and code samples available on request.
 
-- 🔭 Currently building AI agents for pre-sales and customer support (WhatsApp Cloud API / Evolution API)
-- 🛠️ Back-end with **Go** and **TypeScript**, automation with **Python**, and systems with **PHP/Laravel**
-- 📫 Open to freelance work and projects — **fredericocarlos.a32@gmail.com**
+**Document analysis for a federal housing programme.** An AI orchestration pipeline that reads and classifies applicant documents for *Minha Casa Minha Vida*, replacing manual triage. NestJS API, a Python worker for the extraction, Next.js review interface.
+
+**Pre-sales agent on WhatsApp.** An LLM agent that qualifies inbound leads on the Meta Cloud API, plus the dashboard the sales team uses to supervise it. Node.js, WhatsApp Cloud API, LLM tooling.
+
+**Infrastructure watchdog.** Monitors three Evolution API instances, two n8n instances, container health, host resources and TLS expiry, alerting through WhatsApp and email. Python, Docker. Built because silent failures were costing hours of discovery time.
+
+**School management platform, rewritten.** A multi-tenant Laravel system rebuilt from the ground up: tenancy, enrolment, grading and reporting.
+
+**Logistics backend.** Go service handling collection and delivery operations.
+
+---
+
+## Public projects
+
+Six I would defend in a technical conversation. All MIT licensed.
+
+| Project | The problem it solves | Stack |
+|:--|:--|:--|
+| **[transcritor](https://github.com/a32fred/transcritor)** | Transcribes meetings, interviews and classes in Portuguese without sending a single second of audio to the cloud. CLI, TUI and web interface. | Python · faster-whisper |
+| **[ajazz-linux](https://github.com/a32fred/ajazz-linux)** | Gives a Linux user back control of an AJAZZ AJ199 mouse the manufacturer only supported on Windows: DPI, buttons, macros, scroll light. | Python |
+| **[frugal-agents](https://github.com/a32fred/frugal-agents)** | Cuts LLM agent cost by routing easy work to free models and reserving the paid model for decisions and review. Ships the research, the playbook and a zero-dependency MCP cascade server. | Python · MCP |
+| **[hdcam-client](https://github.com/a32fred/hdcam-client)** | Opens a camera that only spoke to its vendor's proprietary app: stream parsing, local capture, authenticated browser viewing and segmented recording. | Go · C · QEMU |
+| **[n8n-production-check](https://github.com/a32fred/n8n-production-check)** | Catches the unauthenticated webhook and the hardcoded secret before an exported n8n workflow reaches production. Deterministic rules, CI-friendly. | Go |
+| **[skillcheck](https://github.com/a32fred/skillcheck)** | Stops an AI skill from breaking silently when a link or command it cites changes: fails the CI instead of the user. | TypeScript |
 
 ---
 
 ## Stack
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
-
-### Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-</p>
-
-### Infrastructure & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-</p>
+**Languages** Go · TypeScript · Python · PHP
+**Backend** NestJS · Node.js · Laravel · PostgreSQL · Redis
+**Frontend** Next.js · React
+**Infrastructure** Docker · Nginx · n8n · Linux VPS
+**AI** LLM agents · MCP · WhatsApp Cloud API · Evolution API
 
 ---
 
-## What I’m building
+## Elsewhere
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **MCMV Document Analysis** | AI orchestration for document analysis in Brazil’s Minha Casa Minha Vida housing program | NestJS · Python worker · Next.js |
-| **eleven-hook** | AI pre-sales agent for WhatsApp (Meta Cloud API) with a management dashboard | Node.js · LLM · WhatsApp API |
-| **eleven-watchdog** | Infrastructure monitoring for Evolution APIs, n8n, containers, resources, and SSL—with WhatsApp and email alerts | Python · Docker |
-| **AprenderMais v2** | Complete rewrite of a multi-tenant school-management platform | Laravel |
-| **greencoleta** | Logistics operations back end | Go |
+[LinkedIn](https://www.linkedin.com/in/frederico-carlos) · [Email](mailto:fredericocarlos.a32@gmail.com) · [Instagram](https://instagram.com/a32fred) · [Codewars](https://www.codewars.com/users/a32fred)
 
-> These are client projects in private repositories. I can discuss their architecture and share
-> relevant code samples in a conversation.
-
-### Public projects
-
-<div align="center">
-
-| Project | What it is | Stack | Stars | Forks |
-|:--------|:-----------|:-----:|:-----:|:-----:|
-| **[n8n-production-check](https://github.com/a32fred/n8n-production-check)** | Deterministic production checks for exported n8n workflows | `Go` | [![Stars](https://img.shields.io/github/stars/a32fred/n8n-production-check?style=flat-square&color=FFD700)](https://github.com/a32fred/n8n-production-check/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/n8n-production-check?style=flat-square&color=blue)](https://github.com/a32fred/n8n-production-check/fork) |
-| **[pontocardce](https://github.com/a32fred/pontocardce)** | Refactored operational website for Ponto Card CE | `TypeScript` | [![Stars](https://img.shields.io/github/stars/a32fred/pontocardce?style=flat-square&color=FFD700)](https://github.com/a32fred/pontocardce/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/pontocardce?style=flat-square&color=blue)](https://github.com/a32fred/pontocardce/fork) |
-| **[notification-webpush](https://github.com/a32fred/notification-webpush)** | Web push notifications | `JavaScript` | [![Stars](https://img.shields.io/github/stars/a32fred/notification-webpush?style=flat-square&color=FFD700)](https://github.com/a32fred/notification-webpush/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/notification-webpush?style=flat-square&color=blue)](https://github.com/a32fred/notification-webpush/fork) |
-| **[Qr-Code-Generation](https://github.com/a32fred/Qr-Code-Generation)** | QR code generator deployed on an Oracle VPS | `HTML/JS` | [![Stars](https://img.shields.io/github/stars/a32fred/Qr-Code-Generation?style=flat-square&color=FFD700)](https://github.com/a32fred/Qr-Code-Generation/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/Qr-Code-Generation?style=flat-square&color=blue)](https://github.com/a32fred/Qr-Code-Generation/fork) |
-| **[appweb-controle-financas](https://github.com/a32fred/appweb-controle-financas)** | Personal finance web app | `JavaScript` | [![Stars](https://img.shields.io/github/stars/a32fred/appweb-controle-financas?style=flat-square&color=FFD700)](https://github.com/a32fred/appweb-controle-financas/stargazers) | [![Forks](https://img.shields.io/github/forks/a32fred/appweb-controle-financas?style=flat-square&color=blue)](https://github.com/a32fred/appweb-controle-financas/fork) |
-
-</div>
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=a32fred&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-</p>
+<sub>27 public repositories. Most of what I build is client work and stays private.</sub>
